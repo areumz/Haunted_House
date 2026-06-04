@@ -3,6 +3,9 @@
 A Three.js project created while following Three.js Journey.
 Three.js Journey 강의를 따라 제작한 Three.js 프로젝트입니다.
 
+## Preview
+![Haunted House Preview](./static/Haunted_House.png)
+
 ## Live Demo
 https://haunted-house-sooty-psi.vercel.app
 
